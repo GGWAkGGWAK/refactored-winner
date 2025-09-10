@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Linen_Skirt
+  m_EditorClassIdentifier: 
+  item_K_name: "\uB9B0\uB128 \uCE58\uB9C8"
+  item_name: Linen_Skirt
+  item_sprite: {fileID: 21300000, guid: f7c55930e64fc7d4a9c63eb9010b2d66, type: 3}
+  item_prefab: {fileID: 5869594216789413222, guid: ea5b0244ba4c5014b91f8f09d49a07e0, type: 3}
+  item_price: 325
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 20603

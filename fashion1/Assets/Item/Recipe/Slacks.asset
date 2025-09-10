@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618b97d41d4344a42a3a8eb35d7539c1, type: 3}
+  m_Name: Slacks
+  m_EditorClassIdentifier: 
+  ingredient:
+  - {fileID: 11400000, guid: 8b1174cb7015edd488d232b55981c1bb, type: 2}
+  - {fileID: 11400000, guid: 6095e8723f7d808439bf9dbb280267c2, type: 2}
+  - {fileID: 11400000, guid: caa3124b19b0e5644941dc719255eb23, type: 2}
+  - {fileID: 11400000, guid: cb2d73a2afc0e5c43aa7a94212e8ab66, type: 2}
+  ingredient_count: 04000000040000000100000001000000
+  production_time: 28
+  result_item: {fileID: 11400000, guid: 881c7689f91613243aa92bf0c54ab338, type: 2}
+  recipe_price: 0

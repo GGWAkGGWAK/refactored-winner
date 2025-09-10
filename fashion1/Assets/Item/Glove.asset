@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Glove
+  m_EditorClassIdentifier: 
+  item_K_name: "\uC7A5\uAC11"
+  item_name: Glove
+  item_sprite: {fileID: 21300000, guid: 479e98969bd1cab4f87007aa9497f0e3, type: 3}
+  item_prefab: {fileID: 4879599591554518861, guid: 084e7f0ea70b02543864ccd83cfba306, type: 3}
+  item_price: 280
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 20907

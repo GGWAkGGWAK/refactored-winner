@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Leather_Jacket
+  m_EditorClassIdentifier: 
+  item_K_name: "\uAC00\uC8FD\uC790\uCF13"
+  item_name: Leather_Jacket
+  item_sprite: {fileID: 21300000, guid: dfdb9938580913b4ebf4af1efd7426c4, type: 3}
+  item_prefab: {fileID: 2552067981874634740, guid: 9f534485c34df974bbddd3eec570d026, type: 3}
+  item_price: 0
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 20807

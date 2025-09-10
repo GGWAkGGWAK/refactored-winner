@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7717089173067467465
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 8357048419757570437}
+  - component: {fileID: 3533439898566061431}
+  m_Layer: 0
+  m_Name: NewsDirectory
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &8357048419757570437
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7717089173067467465}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -6.5430684, y: 0.41317624, z: 0.070947565}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &3533439898566061431
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7717089173067467465}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ade360a00d7d6849872c8b7f9720a48, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  all_news:
+  - {fileID: 11400000, guid: a0e79579623fa874c8d0cc22531902dc, type: 2}
+  - {fileID: 11400000, guid: 3a33dbbf2b7779c4ab49f63a255c7aff, type: 2}
+  - {fileID: 11400000, guid: b6f9309c4b804b34fa90f9dd50309b82, type: 2}
+  - {fileID: 11400000, guid: 41388d0b2bcda1446ae6efcd6ae26bd6, type: 2}
+  - {fileID: 11400000, guid: 28130a9c40a1b8147be005841117a577, type: 2}
+  - {fileID: 11400000, guid: 1e8797b47dc69e546bb678ee45f85fb8, type: 2}
+  - {fileID: 11400000, guid: b08641b342d665a47920d50553a4338a, type: 2}
+  - {fileID: 11400000, guid: 66926e601d8586d45828eb0d74363fc8, type: 2}
+  - {fileID: 11400000, guid: 20d619f5772d30747918805dbfc755a6, type: 2}
+  - {fileID: 11400000, guid: ce85151b1786ed944bc81ee92de9a1eb, type: 2}
+  - {fileID: 11400000, guid: 4c2e1b697bd7aa7439741bf1e23efbd1, type: 2}
+  - {fileID: 11400000, guid: 32f04bec431978140aeea3ea7ba599df, type: 2}
+  - {fileID: 11400000, guid: d16e3ab94a68d7e49823ec0bcce70661, type: 2}
+  - {fileID: 11400000, guid: 7d1dbb851031b9d47a5778f1fde3dd4f, type: 2}
+  - {fileID: 11400000, guid: 8b61498a580f3ac4eb3005f498182be2, type: 2}
+  - {fileID: 11400000, guid: e838ffdf04b20de4b81e875b216b0e49, type: 2}
+  - {fileID: 11400000, guid: 10d999979b38c5544b92d8c17ce780cf, type: 2}
+  - {fileID: 11400000, guid: df3c289a7987ffc4ba7598deac255c82, type: 2}
+  - {fileID: 11400000, guid: 90e7d069e3202fe4698b6de372b56004, type: 2}
+  - {fileID: 11400000, guid: 5c94f0de91b32b44ba88386b2d6364b7, type: 2}
+  - {fileID: 11400000, guid: 58a2699f7d0d06f4096a5cb12f12a587, type: 2}
+  - {fileID: 11400000, guid: 28e60084993a0194793c59a2585f3f46, type: 2}
+  activated_news: []

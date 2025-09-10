@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Watch
+  m_EditorClassIdentifier: 
+  item_K_name: "\uC2DC\uACC4"
+  item_name: Watch
+  item_sprite: {fileID: 21300000, guid: b7ea9d3ea87347743a8d9451c40e1015, type: 3}
+  item_prefab: {fileID: 7817360029151391348, guid: d752ae3a3e755354a8d3a7cbde62f840, type: 3}
+  item_price: 812
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 20904

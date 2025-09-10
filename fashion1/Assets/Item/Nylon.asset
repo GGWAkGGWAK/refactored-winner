@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Nylon
+  m_EditorClassIdentifier: 
+  item_K_name: "\uB098\uC77C\uB860"
+  item_name: Nylon
+  item_sprite: {fileID: 21300000, guid: 551a740075728434ebe3e6eb9d482737, type: 3}
+  item_prefab: {fileID: 4254653123084227792, guid: c54e559ca90a3954e9423122837fc9b8, type: 3}
+  item_price: 15
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 10010

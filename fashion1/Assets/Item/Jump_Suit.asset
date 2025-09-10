@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Jump_Suit
+  m_EditorClassIdentifier: 
+  item_K_name: "\uC810\uD504\uC288\uD2B8"
+  item_name: Jump_Suit
+  item_sprite: {fileID: 21300000, guid: d6104ac36631ce34291a90cddc1f1a3c, type: 3}
+  item_prefab: {fileID: 8208254300303194714, guid: 9f75aa26a28c1f241a55c82b5fcd9559, type: 3}
+  item_price: 390
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 20703

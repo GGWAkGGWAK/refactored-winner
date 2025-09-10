@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Pantie
+  m_EditorClassIdentifier: 
+  item_K_name: "\uC18D\uC637"
+  item_name: Pantie
+  item_sprite: {fileID: 21300000, guid: 9421d377f5e70694da38107823846f37, type: 3}
+  item_prefab: {fileID: 4005013495189346735, guid: 881cda3e8b293e54c8a17fe1b70d6752, type: 3}
+  item_price: 10
+  item_typ: 
+  item_recipe: {fileID: 11400000, guid: a84b92f2269f5ee4f89d6b15c878fcb5, type: 2}
+  item_code: 20101

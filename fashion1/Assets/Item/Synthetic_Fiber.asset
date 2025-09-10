@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Synthetic_Fiber
+  m_EditorClassIdentifier: 
+  item_K_name: "\uD569\uC131\uC12C\uC720"
+  item_name: Synthetic_Fiber
+  item_sprite: {fileID: 21300000, guid: 3561c8fbcaf9d1a41afbed88da88d4c2, type: 3}
+  item_prefab: {fileID: 5098079192270219950, guid: 345b505e4948cf643be3d8528a4f1d9e, type: 3}
+  item_price: 20
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 10015

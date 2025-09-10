@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 618b97d41d4344a42a3a8eb35d7539c1, type: 3}
+  m_Name: One-piece
+  m_EditorClassIdentifier: 
+  ingredient:
+  - {fileID: 11400000, guid: 033880eb99dfaea4b8aaf89c7b90e771, type: 2}
+  ingredient_count: 19000000
+  production_time: 30
+  result_item: {fileID: 11400000, guid: 95a14db2214458849b1aa680b09fc827, type: 2}
+  recipe_price: 0

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Jewel
+  m_EditorClassIdentifier: 
+  item_K_name: "\uBCF4\uC11D"
+  item_name: Jewel
+  item_sprite: {fileID: 21300000, guid: a2a0b294a8de5e0458f82428bd800d03, type: 3}
+  item_prefab: {fileID: 8426171953168895753, guid: ceea372f3c7745147996f12814a51b79, type: 3}
+  item_price: 300
+  item_typ: 
+  item_recipe: {fileID: 0}
+  item_code: 10016

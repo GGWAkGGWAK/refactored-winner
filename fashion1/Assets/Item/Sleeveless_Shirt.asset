@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Sleeveless_Shirt
+  m_EditorClassIdentifier: 
+  item_K_name: "\uB098\uC2DC"
+  item_name: Sleeveless_Shirt
+  item_sprite: {fileID: 21300000, guid: 0c4c9ae81de5c0543b71dc0865dbb8e3, type: 3}
+  item_prefab: {fileID: 4560735804571552492, guid: 8b166bea27f3a724da97a0ffe7d27c16, type: 3}
+  item_price: 21
+  item_typ: 0000000003000000
+  item_recipe: {fileID: 11400000, guid: 8f2b57f690be2e14594a0be57bf8b92c, type: 2}
+  item_code: 20102

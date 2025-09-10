@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51cf115abca6fda429e0733f50d882c9, type: 3}
+  m_Name: Short_Skirt
+  m_EditorClassIdentifier: 
+  item_K_name: "\uBA74 \uCE58\uB9C8"
+  item_name: Short_Skirt
+  item_sprite: {fileID: 21300000, guid: c277aff12b957044291685e03a1f863c, type: 3}
+  item_prefab: {fileID: 7655283390170528365, guid: 67acfedd3dce2bd4a903445ca40ce9d8, type: 3}
+  item_price: 100
+  item_typ: 000000000300000006000000
+  item_recipe: {fileID: 11400000, guid: 2e33beba1bd61b1498d82f64da403cb4, type: 2}
+  item_code: 20601
